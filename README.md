@@ -1,5 +1,15 @@
 ## Hi there 👋
+I'm a passionate developer who loves building things that make a difference. Whether it's a tool to streamline workflows or a creative side project, I'm always exploring new ideas and technologies.
 
+🔭 Currently working on: designing a website for my compny
+
+🌱 Learning: TypeScript, Next.js, and testing with Playwright
+
+🛠️ Tech Stack: JavaScript, React, Node.js, Express, MongoDB, Git & GitHub
+
+💡 Interests: Frontend development, UI/UX design, open-source contribution, and performance optimization
+
+📫 How to reach me: jeeyakattemane77@gmail.com
 <!--
 **jagrathiks7/jagrathiks7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
